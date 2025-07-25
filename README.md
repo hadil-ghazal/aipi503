@@ -1,2 +1,1 @@
-# aipi503
-Initial coursework repo for AIPI503 - Foundations of AI for Prod Innovation
+# AIPI503 Duke foundations of AI for Product Innovation 
